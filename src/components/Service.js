@@ -11,7 +11,7 @@ function Service() {
             <p className='display-4 fw-bold text-center'>What We Offer</p>
           </div>
         </div>
-        <div className='row'>
+        <div className='row row-cols-1 row-cols-md-2 row-cols-lg-3'>
           <div className='col'>
             <div class="card border-0 rounded-0 ">
               <img src="https://images.pexels.com/photos/17484899/pexels-photo-17484899/free-photo-of-an-artist-s-illustration-of-artificial-intelligence-ai-this-image-represents-the-boundaries-set-in-place-to-secure-safe-accountable-biotechnology-it-was-created-by-khyati-trehan-as-pa.png" class="card-img-top" alt="..." />
