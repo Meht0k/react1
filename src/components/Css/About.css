@@ -8,3 +8,13 @@
     height: 100vh;
     width: 100%;
 }
+#about p{
+    width:50% !important;
+}
+
+
+@media (max-width: 576px) {
+    #about p{
+    width:100% !important;
+    }
+}
